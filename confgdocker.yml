@@ -1,5 +1,5 @@
-
-- hosts: "localhost"
+- name: "Integration of Docker with ansible"
+  hosts: all
   tasks:
     - name: "configure_docker"
       yum_repository: 
