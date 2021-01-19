@@ -1,0 +1,1 @@
+192.168.43.198 ansible_ssh_user=root ansible_ssh_pass=redhat ansible_connection=ssh
